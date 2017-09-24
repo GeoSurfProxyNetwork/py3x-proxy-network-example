@@ -1,6 +1,6 @@
 Python. version 3.x
 # Python 3 proxy example
-# http://www.geosurf.com/resources/residential-ips-integration-guide
+# https://www.geosurf.com/resources/residential-ips-integration-guide
 
 import urllib.request as req
 
